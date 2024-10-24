@@ -9,4 +9,4 @@ __想像地図研究所__ は，(一社)生活情報基盤研究機構 (Menhera.
 
 ----
 
-Copyright &copy 2024 Imaginary Map Laboratory, Human-life Information Platforms Institute
+Copyright &copy; 2024 Imaginary Map Laboratory, Human-life Information Platforms Institute
